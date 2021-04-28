@@ -9,7 +9,7 @@
 CODE_ROOT=/vagrant
 WORKING_DIR_NAME=eurorack-modules
 DEV_ENV="${CODE_ROOT}/${WORKING_DIR_NAME}"
-MI_REPO="https://github.com/pichenettes/eurorack.git"
+MI_REPO="git@github.com:martinjankoehler/5u-ports.git"
 
 # test if the dev_env directory already exists
 if [ -d "$DEV_ENV" ]; then
