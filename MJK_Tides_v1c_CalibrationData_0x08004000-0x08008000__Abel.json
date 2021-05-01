@@ -1,0 +1,46 @@
+{
+    "dac": {
+        "OUT1": {
+            "scale": "0xC57B3E00",
+            "offset": "0x47000100"
+        },
+        "OUT2": {
+            "scale": "0xC579B000",
+            "offset": "0x47000C00"
+        },
+        "OUT3": {
+            "scale": "0xC57A1400",
+            "offset": "0x47000D00"
+        },
+        "OUT4": {
+            "scale": "0xC57AD200",
+            "offset": "0x47000F00"
+        }
+    },
+    "adc": {
+        "V/OCT": {
+            "scale": "0xC2700000",
+            "offset": "0x41CD70A4"
+        },
+        "FM": {
+            "scale": "0xC2C00000",
+            "offset": "0x41DC28F0"
+        },
+        "SHAPE": {
+            "scale": "0xBF800000",
+            "offset": "0x3E8E57A3"
+        },
+        "SLOPE": {
+            "scale": "0xBF800000",
+            "offset": "0x3E91CDC2"
+        },
+        "SMOOTHNESS": {
+            "scale": "0xBF800000",
+            "offset": "0x3E8F1374"
+        },
+        "SHIFT": {
+            "scale": "0xBF800000",
+            "offset": "0x3E8F3A75"
+        }
+    }
+}
